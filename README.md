@@ -5,10 +5,15 @@ Pasos Ejercicio angular:
 Seteo del ambiente:
 
 instalar node.js desde el sitio
+
 instalar npm angular cli
+
 posicionarse en la carpeta desde el terminal
+
 instalar dependencias
+
 ejecutar proyecto con ng serve —open
+
 
 Consigna 1:
 Colorear el héroe según su ID numérico dependiendo de si es multiplo de 3, 5 o de 3 y 5(verde, rojo, azul):
